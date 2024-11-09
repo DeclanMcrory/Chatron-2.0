@@ -1,5 +1,6 @@
 # CHATRON - Quantum-Enhanced AI Assistant Interface
 
+try out the first one here:
 https://effortless-kleicha-4ecc00.netlify.app/
 
 ![CHATRON Interface](https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200&h=400)
